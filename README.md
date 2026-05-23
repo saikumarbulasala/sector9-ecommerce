@@ -73,9 +73,6 @@ Designed around a mobile-first philosophy, this application models an enterprise
 - **Consistent Layout Shells:** Persistent navigation and footer shells ensure global states survive route swaps.
 
 ---
-
-# 📦 Installation & System Setup
-
 ## 1️⃣ Clone the production branch
 ```bash
 git clone https://github.com/saikumarbulasala/sector9-ecommerce.git
