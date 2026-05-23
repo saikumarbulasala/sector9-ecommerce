@@ -1,4 +1,4 @@
-# 🚀 Sector 9 – High-Performance Single-Page Commerce Engine
+# 🚀 Sector 9 – High-Performance E-Commerce Engine
 
 A production-grade, highly optimized digital commerce platform engineered to deliver sub-millisecond interaction speeds and lightweight runtime mechanics. The architecture decouples application state from the presentation layer, achieving high scalability, modular components, and fluid layout rendering that eliminates Cumulative Layout Shifts (CLS).
 
