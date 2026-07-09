@@ -141,5 +141,5 @@ npm run build
 ---
 
 <div align="center">
-Built to explore fast, animated, and clean UI patterns for modern e-commerce.
+Built with ❤️ to explore fast, animated, and clean UI patterns for modern e-commerce.
 </div>
