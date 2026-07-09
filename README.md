@@ -140,15 +140,6 @@ npm run build
 
 ---
 
-## 👤 Author
-
-**Sai Kumar Bulasala**
-Currently building multi-agent AI systems 🤖
-
-[GitHub](https://github.com/saikumarbulasala) :)
-
----
-
 <div align="center">
 Built to explore fast, animated, and clean UI patterns for modern e-commerce.
 </div>
