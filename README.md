@@ -30,28 +30,25 @@ Sector 9 is a mobile-first e-commerce storefront built with React, focused on sm
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
-
-**Core**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**UI & Layout**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Routing & Tooling**
-
-![React Router](https://img.shields.io/badge/React_Router_v6-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/><br><b>HTML5</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/><br><b>CSS3</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br><b>JavaScript</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/><br><b>React</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/><br><b>Bootstrap</b></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/framer/0055FF" width="45" height="45" alt="Framer Motion"/><br><b>Framer Motion</b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="45" height="45" alt="React Router"/><br><b>React Router</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/><br><b>Vercel</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/><br><b>Git</b></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/><br><b>GitHub</b></td>
+</tr>
+</table>
 </div>
 
 ---
