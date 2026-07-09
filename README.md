@@ -11,17 +11,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500.png?text=Sector+9+Homepage" alt="Sector 9 homepage" width="45%" />
-  <img src="https://via.placeholder.com/900x500.png?text=Product+%26+Cart+View" alt="Sector 9 product and cart" width="45%" />
-</div>
-
-> Swap these placeholders for real screenshots or a short GIF of the cart flow — it's the fastest way to make this README convert.
-
----
-
 ## 🧠 What is Sector 9?
 
 Sector 9 is a mobile-first e-commerce storefront built with React, focused on smooth navigation, a responsive layout across devices, and a fast, no-reload shopping experience. It's built around a modern streetwear retail concept, with category browsing, product filtering, and a persistent shopping cart.
